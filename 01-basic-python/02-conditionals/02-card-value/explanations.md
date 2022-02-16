@@ -2,13 +2,13 @@
 
 Write a function `card_value(string)` that determines the value of the card.
 
-| Card | Value |
-| ---- | ----- |
-| 2 - 10 | 2 - 10 |
-| Jack | 11    |
-| Queen| 12    |
-| King | 13    |
-| Ace  | 1     |
+| Card      | Value     |
+| ----      | -----     |
+| 2 - 10    | 2 - 10    |
+| Jack      | 11        |
+| Queen     | 12        |
+| King      | 13        |
+| Ace       | 1         |
 
 ```javascript
 // Note that Python and JavaScript have different naming conventions (https://www.python.org/dev/peps/pep-0008/#function-and-variable-names)
